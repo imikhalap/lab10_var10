@@ -1,0 +1,4 @@
+Motorcycle 10000 10 A
+Pencil 5 50 Stationery
+Soap 7 100 Manufactured goods
+Chairs 50 25 Household
